@@ -7,5 +7,5 @@ defineProps<{
 
 
 <template>
-<button>I AM THE BEST BUTTON</button>
+  <button>I AM THE BEST BUTTON</button>
 </template>

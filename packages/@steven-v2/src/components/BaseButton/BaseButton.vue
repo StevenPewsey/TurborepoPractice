@@ -7,5 +7,5 @@ defineProps<{
 
 
 <template>
-<button>I AM A BUTTON {{  kind }}</button>
+  <button>I AM A BUTTON {{ kind }}</button>
 </template>
