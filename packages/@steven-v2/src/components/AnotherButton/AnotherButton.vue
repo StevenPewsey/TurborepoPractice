@@ -6,6 +6,6 @@ defineProps<{
 </script>
 
 
-<template>
-  <button>I AM THE BEST BUTTON</button>
+<template lang="pug">
+button I AM THE BEST BUTTON
 </template>

@@ -6,6 +6,6 @@ defineProps<{
 </script>
 
 
-<template>
-  <button>I AM A BUTTON {{ kind }}</button>
+<template lang="pug">
+button I AM A BUTTON {{ kind }}
 </template>
