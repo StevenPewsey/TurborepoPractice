@@ -1,10 +1,8 @@
 <script setup lang="ts">
 
-type Props = {
-  kind: 'another prop'
-}
-
-const props = defineProps<Props>()
+defineProps<{
+  kind: 'thing'
+}>()
 </script>
 
 

@@ -1,2 +1,2 @@
-export { default as Button } from './components/Button/Button.vue'
+export { default as BaseButton } from './components/BaseButton/BaseButton.vue'
 export { default as AnotherButton } from './components/AnotherButton/AnotherButton.vue'
