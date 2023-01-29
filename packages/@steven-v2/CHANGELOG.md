@@ -1,5 +1,11 @@
 # @steven/v2
 
+## 1.0.0
+
+### Major Changes
+
+- 2c69d66: Big bump!
+
 ## 0.1.3
 
 ### Patch Changes
