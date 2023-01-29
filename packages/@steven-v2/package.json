@@ -5,7 +5,6 @@
     "url": "https://github.com/StevenPewsey/TurborepoPractice.git"
   },
   "version": "1.0.0",
-  "private": true,
   "files": [
     "dist"
   ],
