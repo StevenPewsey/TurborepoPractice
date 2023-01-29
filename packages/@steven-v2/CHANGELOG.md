@@ -1,5 +1,12 @@
 # @steven/v2
 
+## 0.1.1
+
+### Patch Changes
+
+- 8947ed7: This is a small bump
+- a0bf726: refactor button
+
 ## 0.1.0
 
 ### Minor Changes
