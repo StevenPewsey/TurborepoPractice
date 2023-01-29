@@ -1,5 +1,11 @@
 # @steven/v2
 
+## 1.0.1
+
+### Patch Changes
+
+- 412e0a0: super small change
+
 ## 1.0.0
 
 ### Major Changes
