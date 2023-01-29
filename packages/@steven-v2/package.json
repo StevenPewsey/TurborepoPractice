@@ -1,6 +1,7 @@
 {
   "name": "@steven/v2",
   "version": "0.1.0",
+  "private": true,
   "files": [
     "dist"
   ],
