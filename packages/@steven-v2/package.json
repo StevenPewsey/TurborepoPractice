@@ -1,5 +1,9 @@
 {
-  "name": "@steven/v2",
+  "name": "@stevenpewsey/v2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StevenPewsey/TurborepoPractice.git"
+  },
   "version": "0.1.2",
   "private": true,
   "files": [
