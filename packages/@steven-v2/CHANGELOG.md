@@ -1,5 +1,15 @@
 # @steven/v2
 
+## 1.1.0
+
+### Minor Changes
+
+- 0d6b712: Added some exclamation marks
+
+  ```
+  Codeblock
+  ```
+
 ## 1.0.1
 
 ### Patch Changes
